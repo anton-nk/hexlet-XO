@@ -1,4 +1,4 @@
-package io.hexlet.io.model;
+package io.hexlet.xo.model;
 
 public class Game {
 

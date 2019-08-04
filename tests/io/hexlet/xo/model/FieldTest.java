@@ -1,9 +1,9 @@
-package io.hexlet.io.model;
+package io.hexlet.xo.model;
 
 import java.awt.*;
 
-import io.hexlet.io.model.exceptions.AlreadyOccupiedException;
-import io.hexlet.io.model.exceptions.InvalidPointException;
+import io.hexlet.xo.model.exceptions.AlreadyOccupiedException;
+import io.hexlet.xo.model.exceptions.InvalidPointException;
 import org.junit.Test;
 
 import static org.junit.Assert.*;
